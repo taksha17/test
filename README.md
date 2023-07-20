@@ -139,3 +139,4 @@ Save the weights of each model as `MNIST_model1.w`, `MNIST_model2.w`, etc.
 
 Create a zip file that includes all relevant code. The TA should be able to easily run the code to reproduce all plots and results. Include any additional instructions, if necessary.
 # test
+# ML_6363_Assmt_02
